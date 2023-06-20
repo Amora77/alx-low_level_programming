@@ -3,12 +3,13 @@
 #include <stdio.h>
 
 /**
-* main - entry point
-*
-* Description: Print Alphapit in lowercase
-*
-* Return: 0 (success)
-*/
+ * main - entry point
+ *
+ * Description: Print Alphapit in lowercase
+ *
+ * Return: 0 (success)
+ */
+
 int main(void)
 {
 	char letter;
