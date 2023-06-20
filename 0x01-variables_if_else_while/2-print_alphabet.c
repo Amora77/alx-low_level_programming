@@ -2,14 +2,13 @@
 #include <time.h>
 #include <stdio.h>
 
-/*
+/**
 * main - entry point
 *
 * Description: Print Alphapit in lowercase
 *
 * Return: 0 (success)
 */
-
 int main(void)
 {
     char letter;
@@ -18,4 +17,3 @@ int main(void)
        putchar('\n');
     return (0);
 }
-
