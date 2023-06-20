@@ -5,7 +5,7 @@
 /**
  * main - entry point
  *
- * Description: Print Alphapit in lowercase
+ * Description: Print Alphapit
  *
  * Return: 0 (success)
  */
