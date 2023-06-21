@@ -1,6 +1,6 @@
 #include<unistd.h>
 #include"main.h"
-
+#include <stdio.h>
 /**
  * _putchar - print char c to stdout
  *
