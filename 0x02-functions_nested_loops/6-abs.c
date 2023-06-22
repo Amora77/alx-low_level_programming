@@ -2,7 +2,7 @@
 
 /**
  * _abs - function to get absolute value
- * @n: input of function
+ * @i: input of function
  * Return: 1 if alphapetic or 0 if not
  */
 int _abs(int i)
