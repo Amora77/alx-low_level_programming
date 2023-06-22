@@ -1,4 +1,4 @@
-#include <stdio.h>
+#include"main.h"
 /**
  * print_times_table - print n time tables
  * @n: required time table
