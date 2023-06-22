@@ -5,6 +5,7 @@ i/**
  * @i: the number to start counting from to 98
  * Return: void returns nothing.
  */
+
 void print_to_98(int n)
 {
 	if (n < 98)
