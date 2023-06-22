@@ -2,8 +2,6 @@
 
 /**
  * jack_bauer - function to get absolute value
- * @h: hours
- * @m: minutes
  */
 void jack_bauer(void)
 {
