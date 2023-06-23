@@ -4,7 +4,7 @@
  * print_line - check for uppercase
  * Description: print 1 to 9
  * Return: nothing
- * @n
+ * @n: input
  */
 void print_line(int n)
 {
