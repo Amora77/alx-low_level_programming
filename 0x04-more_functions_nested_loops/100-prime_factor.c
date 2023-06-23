@@ -3,7 +3,7 @@
 /**
  * main - entry point
  * Description: print prime number
- * Return: 0 ore one 
+ * Return: 0 ore one
  */
 int main(void)
 {
