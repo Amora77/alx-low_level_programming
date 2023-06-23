@@ -3,6 +3,7 @@
 /**
  * print_diagonal - print diagos
  * Description: print 1 to 9
+ * @n: number of times
  * Return: nothing
  */
 void print_diagonal(int n)
