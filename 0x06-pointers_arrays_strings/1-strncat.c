@@ -5,7 +5,7 @@
  *
  *@dest:  dest
  *@src: source
- *
+ *@n: count of letters
  * Return: This return to dest.
  */
 
