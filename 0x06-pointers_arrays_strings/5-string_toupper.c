@@ -1,9 +1,9 @@
 #include "main.h"
 
 /**
- *string_toupper - convert lowercase to uppercase 
+ * string_toupper - convert lowercase to uppercase 
  *
- *@str: string to convert
+ * @str: string to convert
  *
  * Return: uppercse string.
  */
