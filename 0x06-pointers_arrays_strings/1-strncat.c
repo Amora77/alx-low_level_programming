@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- *_strcat - concatination function.
+ *_strncat - concatination function.
  *
  *@dest:  dest
  *@src: source
